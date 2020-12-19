@@ -6,7 +6,7 @@
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
     <version>4.0</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>electricflow</artifactId>
@@ -79,7 +79,7 @@
     <dependency>
       <groupId>org.apache.maven.shared</groupId>
       <artifactId>maven-shared-utils</artifactId>
-      <version>3.1.0</version>
+      <version>3.3.3</version>
     </dependency>
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
