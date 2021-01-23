@@ -6,7 +6,7 @@
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
     <version>4.0</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>electricflow</artifactId>
@@ -104,7 +104,7 @@
     <dependency>
       <groupId>com.googlecode.owasp-java-html-sanitizer</groupId>
       <artifactId>owasp-java-html-sanitizer</artifactId>
-      <version>20190503.1</version>
+      <version>20200713.1</version>
     </dependency>
     <dependency>
       <groupId>org.jenkins-ci.plugins.workflow</groupId>
